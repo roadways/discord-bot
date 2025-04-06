@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Data files
+data/*.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# OS specific files
+.DS_Store
+Thumbs.db
